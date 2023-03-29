@@ -1,2 +1,2 @@
 
-console.log("fsdflsdlfdf");
+document.write("Heloo...");

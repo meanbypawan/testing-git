@@ -3,5 +3,5 @@ function wish(){
 }
 
 function greetUser(){
-    console.log("Hello firends...");
+    console.log("Namesty dosto...");
 }
